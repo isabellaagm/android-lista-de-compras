@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/xml_data_extraction_rules.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/drawable_baseline_delete_24.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/layout_item_layout.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/layout/item_layout.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/xml_backup_rules.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "isabellaagm.com.github.android_lista_de_compras.app-debug-56:/layout_activity_main.xml.flat",
+        "source": "isabellaagm.com.github.android_lista_de_compras.app-main-58:/layout/activity_main.xml"
+    }
+]
